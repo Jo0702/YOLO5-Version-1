@@ -1,11 +1,2 @@
 streamlit
 yolo
-scipy
-numpy
-matplotlib
-opencv_python
-torch
-torchvision
-tqdm
-Pillow
-h5py
